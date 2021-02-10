@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "https://github.com/pedrinhovegan/pensadinamite/"
+baseurl: "/"
 url: "https://github.com/pedrinhovegan/pensadinamite"
 
 # THEME-SPECIFIC CONFIGURATION
