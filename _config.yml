@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/"
-url: ""
+baseurl: "https://github.com/pedrinhovegan/pensadinamite/"
+url: "https://github.com/pedrinhovegan/pensadinamite"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Pensamento & Dinamite                                    # site's title
